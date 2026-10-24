@@ -1,0 +1,11 @@
+#EXTM3U
+# FAST IPTV - test playlist for store reviewers.
+# Contains only freely licensed demo videos by the Blender Foundation (CC BY 3.0, https://durian.blender.org, https://mango.blender.org, https://studio.blender.org). No channels, no third-party content.
+#EXTINF:-1 tvg-id="bbb" group-title="Demo",Big Buck Bunny (HLS) - Blender Foundation, CC BY 3.0
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="tos" group-title="Demo",Tears of Steel (HLS) - Blender Foundation, CC BY 3.0
+https://test-streams.mux.dev/tos_ismc/main.m3u8
+#EXTINF:-1 tvg-id="sintel" group-title="Demo",Sintel trailer (MP4) - Blender Foundation, CC BY 3.0
+https://media.w3.org/2010/05/sintel/trailer.mp4
+#EXTINF:-1 tvg-id="bbb-trailer" group-title="Demo",Big Buck Bunny trailer (MP4) - Blender Foundation, CC BY 3.0
+https://media.w3.org/2010/05/bunny/trailer.mp4
